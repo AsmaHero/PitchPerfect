@@ -7,7 +7,7 @@ This app records a conversation between you and a friend, and then alters your v
 
 # ScreenShots:
 
-<img src="https://lh6.googleusercontent.com/svtwH9EvH-QUYmkPrxIv-pLYZ-yezDW66BFqHR0DNT-QzO10oUnvDjssloCcqXG88uNSz72MPbNZc7N1k0VXJ411kW3wY3r8o3Iom_e3A4oSQj8Bceb8Mrplv_E4TJ617bdQDw" width="200" height="300"> <img src="https://lh5.googleusercontent.com/oG8HykbbzvbHZucdW3ZgSYG2g2XlkgUgZhRSPSn1kYZxl4_zTvW8qQGXVQnxEYVTZAGADs9Eyjh896mVhtJPbc_8JM-glwyGJEgecftGLWGlqXeBEycK4bWxIs5zc5cCif60VQ" width="500" height="300"> 
+<img src="https://user-images.githubusercontent.com/48783969/59660684-d9279680-91b1-11e9-885e-c0860b81541e.png" width="200" height="300"> <img src="https://user-images.githubusercontent.com/48783969/59660695-dfb60e00-91b1-11e9-8491-9e1d512bdbfb.png" width="500" height="300"> 
 
 
 # Done by:
